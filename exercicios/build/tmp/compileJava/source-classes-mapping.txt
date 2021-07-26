@@ -1,0 +1,24 @@
+exercicio1/Problema.java
+ exercicio1.Problema
+exercicio1/Programa.java
+ exercicio1.Programa
+exercicio2/Problema.java
+ exercicio2.Problema
+exercicio2/Programa.java
+ exercicio2.Programa
+exercicio3/Problema.java
+ exercicio3.Problema
+exercicio3/Programa.java
+ exercicio3.Programa
+exercicio4/Problema.java
+ exercicio4.Problema
+exercicio5/Problema.java
+ exercicio5.Problema
+exercicio5/Programa.java
+ exercicio5.Programa
+exercicio4/Programa.java
+ exercicio4.Programa
+exercicio6/Problema.java
+ exercicio6.Problema
+exercicio6/Programa.java
+ exercicio6.Programa
